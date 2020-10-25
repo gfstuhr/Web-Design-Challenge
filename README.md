@@ -3,4 +3,4 @@ This challenge was to create a website where you can navigate between the visual
 
 Click [here]( https://gfstuhr.github.io/Web-Design-Challenge.github.io/) to see the live website.
 
-![Capture.png](capture.png)
+![Capture.png](Capture.png)
